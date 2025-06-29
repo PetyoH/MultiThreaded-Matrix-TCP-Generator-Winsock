@@ -1,0 +1,14 @@
+﻿  Server.cpp
+C:\Users\Martin\3D Objects\Delete\Client-Server TCP\Client-Server TCP\Server.cpp(62,19): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+  C:\Users\Martin\3D Objects\Delete\Client-Server TCP\Client-Server TCP\Server.cpp(62,19):
+  consider using '%ls' in the format string
+  C:\Users\Martin\3D Objects\Delete\Client-Server TCP\Client-Server TCP\Server.cpp(62,19):
+  consider using '%lls' in the format string
+  C:\Users\Martin\3D Objects\Delete\Client-Server TCP\Client-Server TCP\Server.cpp(62,19):
+  consider using '%Ls' in the format string
+  C:\Users\Martin\3D Objects\Delete\Client-Server TCP\Client-Server TCP\Server.cpp(62,19):
+  consider using '%ws' in the format string
+  
+C:\Users\Martin\3D Objects\Delete\Client-Server TCP\Client-Server TCP\Server.cpp(68,20): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Martin\3D Objects\Delete\Client-Server TCP\Client-Server TCP\Server.cpp(75,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client-Server TCP.vcxproj -> C:\Users\Martin\3D Objects\Delete\Client-Server TCP\x64\Debug\Server.exe
